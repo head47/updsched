@@ -1,0 +1,9 @@
+[Unit]
+Description=Schedule upgrades
+
+[Timer]
+OnUnitActiveSec=1d
+OnBootSec=15m
+
+[Install]
+WantedBy=timers.target

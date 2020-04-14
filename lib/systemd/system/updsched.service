@@ -1,0 +1,6 @@
+[Unit]
+Description=Upgrade system
+
+[Service]
+Type=oneshot
+ExecStart=/bin/bash /usr/bin/updsched.sh
