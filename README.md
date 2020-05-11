@@ -12,6 +12,7 @@ Say no more!
 * libnotify
 * dunst
 * iputils
+* xterm (optional)
 
 # Notes
 
